@@ -1,0 +1,37 @@
+body{
+	background-color: #000000;
+	color: #00ff00;
+}
+
+p{
+	color: #123456;
+}
+
+div
+{
+	background-color: green
+}
+
+div:hover
+{
+	background-color: #ffaa11
+}
+
+.list{
+	background-color: #0088ee
+}
+
+#row{
+	background-color: #aa2211;
+	font-family: sans-serif;
+	font-size: 22px;
+}
+
+.b{
+	background-color: #000000
+
+}
+
+.r{
+	background-color: #ffffff
+}
